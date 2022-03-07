@@ -1,6 +1,5 @@
 ## Hello, World!!
 
-- 🔭 Desenvolvedor front-end.
 - 📖 Estudante de Ciência da Computação 
 - 🌱 Estudo JS, HTML, CSS, Node, jQuery, Bootstrap, MySQL.
 

@@ -1,7 +1,7 @@
 ## Hello, World!!
 
 - 📖 Estudante de Ciência da Computação 
-- 🌱 Estudo JS, HTML, CSS, Node, jQuery, Bootstrap, MySQL.
+- 🌱 Estudo ativo sobre linguagens backend; Python, Java, C++, SQL e frameworks.
 
 <div align="center">
   <a href="https://github.com/bernardodsv">
